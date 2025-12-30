@@ -1,6 +1,6 @@
 # PyTorch FashionMNIST Classifier
 
-A neural network that classifies clothing images into 10 categories, built to quickly refresh/learn PyTorch fundamentals.
+A neural network that classifies clothing images into 10 categories, done to quickly refresh/learn PyTorch fundamentals (https://docs.pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html)
 
 ## Results
 
